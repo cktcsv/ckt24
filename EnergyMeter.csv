@@ -1,0 +1,2 @@
+name,enabled,element,terminal,excess,radial,voltage_only,kva_normal,kva_emerg,peak_currents
+fdr_05410,true,line.fdr_05410,1,true,true,false,0,0,[ 466 469 452 ]

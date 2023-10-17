@@ -1,0 +1,4 @@
+name,enabled,n_phases,n_conds,base_freq,terminal1,terminal2,connection,num_steps,spec_type,kvar,kv,c,r,xl
+cap_g2100pl6500,true,3,3,60,n300521,,wye,1,kvar,[ 900 ],34.5,[ 2.005733372298486E-6 ],[ 0 ],[ 0 ]
+cap_g2100fk7800,true,3,3,60,n292388,,wye,1,kvar,[ 1200 ],34.5,[ 2.674311163064648E-6 ],[ 0 ],[ 0 ]
+cap_g2101ae7400,true,3,3,60,n284062,,wye,1,kvar,[ 1200 ],34.5,[ 2.674311163064648E-6 ],[ 0 ],[ 0 ]
