@@ -1,6 +1,6 @@
 name,enabled,element,terminal,value,sequence,magnitude,pos_seq,residual,p_polar
 subxfmr_taps,true,transformer.subxfmr,2,tap_position,false,false,false,false,true
 fdr_05410_mon_vi,true,line.fdr_05410,1,voltage_current,false,false,false,true,true
-fdr_05410_mon_pq,true,line.fdr_05410,1,powers,false,false,false,false,false
-fdr_05410_mon_va,true,line.fdr_05410,1,powers,false,false,false,false,true
-other_feeders,true,line.other_feeders,1,powers,false,false,false,false,false
+fdr_05410_mon_pq,true,line.fdr_05410,1,power,false,false,false,false,false
+fdr_05410_mon_va,true,line.fdr_05410,1,power,false,false,false,false,true
+other_feeders,true,line.other_feeders,1,power,false,false,false,false,false
